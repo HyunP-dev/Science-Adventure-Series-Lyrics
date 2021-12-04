@@ -1,7 +1,8 @@
 # **Singularity**
-<center>
-<img src="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/110/851/81110851_1539165146087_1_600x600.JPG" width=200 height=200>
-</center>
+
+<div style="text-align: center;">
+    <img src="http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/110/851/81110851_1539165146087_1_600x600.JPG" width=200 height=200>
+</div>
 
 ## **Description**
 **Game Title:** Chaos;Child  
